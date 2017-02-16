@@ -6,4 +6,4 @@
 IRC Script on mIRC (www.mirc.com)
 Script is for windows use
 
-#rave irc.dal.net for help
+support channel #rave DALnet Network (irc.dal.net) for help
