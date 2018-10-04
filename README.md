@@ -1,11 +1,12 @@
-# ravescript
+# ravescript | Updated 04 Oct 2018
 
 
-IRC Script on mIRC (www.mirc.com)
+IRC Script for mIRC(www.mirc.com) and AdiIRC(www.adiirc.com)
 
-Script is for windows use
+Script is for windows use only.
+*AdiIRC version will be released soon.
 
-Support channel #Rave DALnet Network (irc.dal.net) for help
+Support channel #rave at DALnet Network (irc.dal.net)
 
 Features
 
@@ -19,10 +20,7 @@ Features
 
 –» On the “Bad Swear” and “Unallowed Word(s)” triggers, enter the exact trigger words on the edit box and save it. The script will kick users who say the exact word. For example, if the word “seb” is on your Unallowed Word(s) trigger list, the script won’t kick users who say “sebo”. It will only kick those who exactly say “seb” with or without punctuation marks (i.e. seb?!). You can add as many triggers as you want but only words with alphabet characters.
 
-
-
 • Intelligent Bans
-
 
 –» On the offensive nick/ident triggers, enter the words you don’t like to see on a nick. It doesn’t
 have to be the exact nick. If the script detects that word on a user’s nick or ident, it will BAN the
@@ -32,8 +30,6 @@ the offensive nick/ident triggers list and enabled this protection on #makati, w
 user changes her nick, she immediatly can enter back the chatroom. The script doesn’t ban the
 IP address alone (no type 2 ban) since if he/she is in a cafe, all the other users on that cafe
 can be kicked out too if there is a ban enforcer active on that channel.
-
-
 
 • Common Channel Protections
 
@@ -52,25 +48,14 @@ is already open, it will no longer detect spam triggers.
 blocked from messaging you and whom you want to be exempted from your autokicks
 if your exemption for friends is turned ON.
 
-
-
 • Add-Ons (Written by other coders)
-
-
 –» MemoExpress (|Legend|)
-
 –» AntiSpam Bot (toucan)
-
 –» Blacklist Editor (lite)
-
 –» Nonsense Nick remover (lite)
-
 –» MP3 Player (ScoopScript)
-
 –» Log Viewer (Sabby)
-
 –» Secure Query (KnightFal)
-
 
 * All the add-ons were re-coded to provide proper
 interaction with other RAVE features.
@@ -78,6 +63,6 @@ interaction with other RAVE features.
 If you have a good add-on which you would like to include in
 the next release of RAVE, please don’t hesitate to contact us.
 
-admin@coders.ph
+admin@coders.ph / irc@coders.ph
 
 http://rave.coders.ph/
